@@ -5,15 +5,40 @@ body{
 *{
     color: white;
 }
-table{
-    border: 1px solid gray;
-}
 td{
     border: 1px solid rgb(174, 172, 172);
 }
-h1{
+.name{
     text-decoration: underline;
+    text-align: center;
 }
 .hobbies{
     text-decoration: underline;
+}
+h2{
+    text-align: center; 
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.about{
+    border: 1px solid gray;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+    text-align: center;
+    list-style-position: inside;
+}
+li{
+    text-align: center;
+    list-style-position: inside;
+}
+p{
+    text-align: center;
+}
+h3{
+    text-align: center;
 }
